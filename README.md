@@ -9,11 +9,7 @@ This is a classic Tic-Tac-Toe game developed using Android Studio with Java. The
 - Two-player mode
 - User-friendly interface
 - Restart once GAME OVER
-
-## Screenshots
-![Screenshot 2025-01-19 143543](https://github.com/user-attachments/assets/596c6bfd-5770-4435-9ca3-61a0cee9960a)
-![image](https://github.com/user-attachments/assets/7e493af4-72a9-4277-b1a3-adb91d3bf0b0)
-
+- 
 ## Getting Started
 
 ### Prerequisites
